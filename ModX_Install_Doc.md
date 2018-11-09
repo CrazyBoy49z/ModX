@@ -45,10 +45,42 @@
    * Отправлять заголовок X-Powered-By: Нет.
 
    * Пространство имен: ace
-   * Размер шрифта: 18px;
+   * Размер шрифта: 14px;
    * Мягкая табуляция: Нет;
    * Размер табуляции: 2;
-   * Тема редактора (на выбор): ambiance, chaos, chrome, clouds, clouds_midnight, cobalt, crimson_editor, dawn, dreamweaver, eclipse, github, idle_fingers, katzenmilch, kr, kuroir, merbivore, merbivore_soft, mono_industrial, monokai, pastel_on_dark, solarized_dark, solarized_light, terminal, textmate, tomorrow, tomorrow_night, tomorrow_night_blue, tomorrow_night_bright, tomorrow_night_eighties, twilight, vibrant_ink, xcode;
+   * Тема редактора (на выбор):   
+   ambiance,  
+   chaos,   
+   chrome,   
+   clouds,   
+   clouds_midnight,   
+   cobalt,   
+   crimson_editor,   
+   dawn,   
+   dreamweaver,   
+   eclipse,   
+   github,   
+   idle_fingers,   
+   katzenmilch,   
+   kr,   
+   kuroir,   
+   merbivore,   
+   merbivore_soft,   
+   mono_industrial, 
+   monokai,  
+   pastel_on_dark,  
+   solarized_dark,  
+   solarized_light,  
+   terminal,  
+   textmate,  
+   tomorrow,  
+   tomorrow_night,  
+   tomorrow_night_blue,  
+   tomorrow_night_bright,  
+   tomorrow_night_eighties,  
+   twilight,  
+   vibrant_ink,  
+   xcode;
 Кроме того, вы можете сделать тему Material в редакторе Ace: инструкция.
 
 -------------------------------------------------------------------------------------------------------------
