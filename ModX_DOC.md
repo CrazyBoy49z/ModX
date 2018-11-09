@@ -297,11 +297,11 @@ $resource->save();
 ```
 ## XPDO 
 
-__getObject__  - get one object/table row
-__getCollection__ - get many objects/table rows 
-__getOne__ - get one related object
-__getMany__ - get many related objects
-__getCollectionGraph__ - get many objects and their related  objects 
+__getObject__  - get one object/table row  
+__getCollection__ - get many objects/table rows  
+__getOne__ - get one related object  
+__getMany__ - get many related objects  
+__getCollectionGraph__ - get many objects and their related  objects   
 
 #### other xpdo object methods
 ```
