@@ -124,6 +124,15 @@ $modx->user;     // Текущий пользователь
 ```
 $modx->getOption('SettingName'); // eg site_start
 ```
+#### Получения системних настройок и параметров сниппета
+```
+$array = [ 'a' => 'b' ];
+
+Примери получения данних
+$modx->getOption('a', $array, 'default' ); // 'b'
+$modx->getOption('b', $array, 'default' ); // 'default'
+```
+
 
 ## LOGGING 
 #### log an error
