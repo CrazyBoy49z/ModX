@@ -1,4 +1,3 @@
-/*http://i-skool.co.uk/mobile-development/web-design-for-mobiles-and-tablets-viewport-sizes/*/
 /*At least requires the meta viewport tag with content  'width=device-width'*/
 @media only screen and (max-width: 1080px) and (orientation : portrait) {
   /* PORTRAIT:
